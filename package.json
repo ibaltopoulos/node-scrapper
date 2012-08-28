@@ -1,0 +1,19 @@
+{
+  "name": "node-scrapper",
+  "description": "Screen scrapping using node.js and phantom.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibaltopoulos/node-scrapper"
+  },
+  "author": "Ioannis Baltopoulos <ioannis.baltopoulos@gmail.com>",
+  "keywords": [
+    "scrape"
+  ],
+  "main": "./server.js",
+  "dependencies": { },
+  "devDependencies": { },
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
